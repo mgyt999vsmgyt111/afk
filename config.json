@@ -1,6 +1,6 @@
 {
-	"ip":"example.aternos.ip",
-	"port": "25565",
-	"name": "afkbot1",
+	"ip":"playpizza.aternos.me",
+	"port": "56210",
+	"name": "play_as_pizza",
 	"auto-night-skip":"true"
 }
